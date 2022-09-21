@@ -1,0 +1,35 @@
+.article h2{
+    color: navy;
+    text-align: center;
+    font-size: 40px;
+}
+.article p{
+    font-size: 20px;
+}
+.article{
+    text-align: justify;
+    margin: 20px 20% 20px 20%;
+}
+.list{
+    float: left;
+    background-color: lightgrey;
+    padding-right: 10px;
+    font-size: large;
+}
+#category{
+    font-weight: bold;
+}
+.mark{
+    font-weight: bold;
+    font-size: small;
+}
+/*.image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}*/
+.image {
+    margin: 20px;
+    
+}
